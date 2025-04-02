@@ -95,6 +95,3 @@ Use the sidebar to ask natural language questions such as:
 - Check collections are imported correctly with `use JSONS` then `show collections`
 - Ensure the backend APIs are connecting to MongoDB successfully
 
----
-
-For more detailed documentation, refer to the project specification document.
